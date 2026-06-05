@@ -187,4 +187,4 @@ Contains the complete source code for the Student Management System.
 
 ### Output-2.jpg
 
-Screenshot of the program execution output.
+<img width="422" height="748" alt="Image" src="https://github.com/user-attachments/assets/680e0125-c1d1-4f8f-a312-401c6e380830" />
